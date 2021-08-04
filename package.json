@@ -1,0 +1,11 @@
+{
+  "name": "alias-error-cypress",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:Joelasaur/alias-error-cypress.git",
+  "author": "Joel Whalen <joel.whalen@updater.com>",
+  "license": "MIT",
+  "dependencies": {
+    "cypress": "^8.2.0"
+  }
+}
