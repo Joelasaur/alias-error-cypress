@@ -7,5 +7,9 @@
   "license": "MIT",
   "dependencies": {
     "cypress": "^8.2.0"
+  },
+  "devDependencies": {
+    "@types/node": "^16.4.12",
+    "typescript": "^4.3.5"
   }
 }
