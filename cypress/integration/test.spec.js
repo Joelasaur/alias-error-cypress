@@ -1,5 +1,5 @@
 import { testFunction } from '../support/helper/helpers'
 
-it ('should fail to import alias', () => {
-    expect(testFunction()).to.be('test2');
+it ('will pass using import alias', () => {
+    expect(testFunction()).to.eq('test2');
 });
